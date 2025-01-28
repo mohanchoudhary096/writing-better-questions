@@ -8,7 +8,7 @@
 
 #### Then, navigate to the repository and create a python virtual environment using virtualenv:
 
-cd ml-powered-applications
+cd writing-better-questions
 
 virtualenv ml_editor
 
