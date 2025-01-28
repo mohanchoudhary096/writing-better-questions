@@ -4,7 +4,7 @@
 
 #### To setup, start by cloning the repository:
 
-#### git clone https://github.com/hundredblocks/ml-powered-applications.git
+#### git clone https://github.com/mohanchoudhary096/writing-better-questions.git
 
 #### Then, navigate to the repository and create a python virtual environment using virtualenv:
 
